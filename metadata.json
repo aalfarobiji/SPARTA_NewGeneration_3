@@ -1,0 +1,8 @@
+{
+  "name": "SPARTA_New Generation_3_Trial",
+  "description": "Spatial Prediction And Rabies Transmission Analysis - Spatial Kernel Agent-Based and Metapopulation Rabies Simulation and Intervention Tool for Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
